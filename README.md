@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src=".github/capa.svg" alt="Componentes de Trabalho" width="100%" />
+<img src=".github/capa.png" alt="Componentes de Trabalho" width="100%" />
 </p>
 
 ## 🖥️ Projeto 
